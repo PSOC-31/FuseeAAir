@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="220mm" height="120mm" viewBox="0 0 220 120">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+    <g lc:layername="Coupe" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <line x1="210" y1="110" x2="220" y2="110"/>
+        <line x1="210" y1="110" x2="220" y2="110"/>
+        <line x1="0" y1="110" x2="10" y2="110"/>
+        <line x1="0" y1="120" x2="220" y2="120"/>
+        <line x1="0" y1="110" x2="0" y2="120"/>
+        <line x1="220" y1="110" x2="220" y2="120"/>
+        <line x1="210" y1="10" x2="220" y2="10"/>
+        <line x1="220" y1="10" x2="220" y2="0"/>
+        <line x1="220" y1="0" x2="0" y2="0"/>
+        <line x1="0" y1="10" x2="10" y2="10"/>
+        <line x1="0" y1="0" x2="0" y2="10"/>
+        <line x1="10" y1="110" x2="10" y2="10"/>
+        <line x1="210" y1="10" x2="210" y2="110"/>
+        <circle cx="110" cy="60" r="16.75"/>
+    </g>
+</svg>
