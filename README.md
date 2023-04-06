@@ -1,6 +1,6 @@
 # FuseeAAir
 Sources matérielles et pédagogiques autour des fusées à air utilisées à Planète Sciences Occitanie
-![](./assets/Pictures/100000000000050B000003241FCB128DC9387E5A.jpg){width="2.946cm" height="1.826cm"}
+![](./ImagesRampes/LogoPSOC.jpg){width="2.946cm" height="1.826cm"}
 
 
 ![](./assets/Pictures/1000000000000A2000001200BF33EDC3F166AD6B.jpg){width="10.188cm" height="18.113cm"}
