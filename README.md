@@ -1,10 +1,10 @@
 # FuseeAAir
 Sources matérielles et pédagogiques autour des fusées à air utilisées à Planète Sciences Occitanie
-![](ImagesRampes/LogoPSOC.jpg)
+![](ImagesRampes/LogoPSO.jpg)
 
-![](./assets/Pictures/1000000000000A2000001200BF33EDC3F166AD6B.jpg){width="10.188cm" height="18.113cm"}
+![](ImagesRampes/RampeAirParking.jpg){width="10.188cm" height="18.113cm"}
 
-# []{#anchor}Notes de versions. 
+## Notes de versions. 
 
 Attention, les versions citées sont celles des versions matérielles, non pas celles du présent document, lui-même bien moins souvent mis à jour que le matériel.
 
@@ -22,9 +22,7 @@ Attention, les versions citées sont celles des versions matérielles, non pas c
     -   V3.5 Version de travail du document de fabrication intermédiaire
     -   V3.6 Mise au propre des documents pour publication sur https://github.com/PSOC-31
 
-# 
-
-# []{#anchor-1}Inventaire des éléments
+## Inventaire des éléments
 
   ---------------------------------------------------------------------------- ----------------------------------------- --------------------- ----------------- ------ ------- -------
   Electro vanne                                                                1\" FF JTV 9V RBIRD                       IrriJardin            421020            1      49,99   54,42
@@ -58,9 +56,7 @@ Attention, les versions citées sont celles des versions matérielles, non pas c
   Total                                                                                                                                                                         207,1
   ---------------------------------------------------------------------------- ----------------------------------------- --------------------- ----------------- ------ ------- -------
 
-# 
-
-# Montage de la chambre de pression.
+## Montage de la chambre de pression.
 
 La chambre de pression est le volume d'air immédiatement à l'arrière de l'électrovanne. C'est le vase d'expansion, les divers raccords et le tuyau de gonflage qui sont sous pression, dans l'attente du lancement.
 
@@ -81,11 +77,11 @@ Attention au début du vissage, on part très vite en travers, surtout dans les 
 -   De l'autre coté de ce mamelon, en face sur l'autre branche du T, visser une réduction femelle-femelle 26-20.
 -   Dans ce dernier mamelon, visser le vase d'expansion 5 litres.
 
-# []{#anchor-2}Montage de la ligne de gonflage.
+## Montage de la ligne de gonflage.
 
 Voir le document commun pour les rampes fusée à eau et rampes fusée à air « Fabrication de la ligne de gonflage pour Bases de lancement Fusées à Air et Fusées à Eau. V1.1 »
 
-# Montage de la commande de l'électrovanne.
+## Montage de la commande de l'électrovanne.
 
 Il y a plusieurs types d'électrovannes. Certaines sont nominalement alimentées en 24V. Je suppose que c'est pour se prémunir contre les possibles pertes en lignes dues à de très longs câblages dans un champ. Pour une utilisation à notre pression, avec de l'air et avec un câblage soigné, une tension nominale de 9V est suffisante. Cependant, je recommande l'utilisation de piles alcalines.
 
@@ -111,9 +107,7 @@ Montez et câblez un interrupteur sur un bouchon de tampon. Vissez ce bouchon et
 
 Fixez le![](./assets/Pictures/1000000000000A2000001200F9C16F9CC16F3A00.jpg){width="3.614cm" height="6.426cm"} câble à l'électro-vanne avec un collier de serrage plastique (Rislan ou Colson, antonomase ).
 
-# 
-
-# Configuration du vase d'expansion.
+## Configuration du vase d'expansion.
 
 Le vase d'expansion est prévu pour permettre une dilatation de l'eau dans un circuit (cas de la partie chaude de l'eau sanitaire), sans mettre en contact l'eau avec l'air pour limiter l'oxydation des parties métalliques. Par construction, il existe une chambre à air intégrée dans le vase, gonflé à 2 bars. Pour notre utilisation, il est nécessaire de dégonfler entièrement cette chambre pour profiter de la vitesse maximum d'éjection de l'air. Donc, dans un premier temps, on va dévisser le protége-cul du vase, et appuyer avec un objet quelconque sur la valve pour dégonfler.
 
@@ -121,7 +115,7 @@ Photo à venir.
 
 Ensuite, pressuriser avec la pompe à vélo le circuit principal (dans le vase, pour chasser le reste d'air de la chambre) et recommencer à appuyer sur la valve. Refaire 2 ou 3 fois cette opération pour vider complètement la chambre.
 
-# Tests de l'ensemble.
+## Tests de l'ensemble.
 
 Testez le montage en plongeant l'ensemble sous pression (2 bars mini) dans l'eau. N'oubliez pas de tester les deux extrémités du tuyau d'air.
 
@@ -131,12 +125,12 @@ Pour les raccords avec collier inox, un resserrage suffit la plupart du temps.
 
 De plus, un test à pression élevé est recommandé (je dirais env 6 bars mais pas plus de 10, limite de la garantie du vase d'expansion) en prenant des précautions en cas d'éclatement, genre carton ou couverture autour. Attention, à forte pression, il arrive que l'électro-vanne ne se déclenche pas. La dépressurisation peux se faire à distance en déconnectant la pompe à vélo et agir mécaniquement sur la valve du tube. Pour une utilisation dans ces pressions, on peu envisager un déclenchement avec 2 plies 9v, donc 18v.
 
-# []{#anchor-3}**Fabrication du support**.
+## Fabrication du support.
 
-# Tube de lancement.
+### Tube de lancement.
 
 ![](./assets/Pictures/100000000000009D000000ECE8B7F1ADA8A4EC09.jpg){width="4.161cm" height="6.241cm"}Coupez une longueur de 350 mm de tube IRO (isolant rigide ordinaire) ou IRL (isolant rigide lisse), et non pas ICTA (isolant cintrable transversalement annelé*), *vendu en rayon électricité, de diamètre 32. Collez-le sur un raccord fileté Pvc M32 F25 26\*34. Laisser sécher au moins 24h.
 
-Cet ensemble tube/raccord sert au montage de l'ensemble actif de la rampe sur le support en bois et permet de renter une rampe, voire deux, dans une malle.
+Cet ensemble tube/raccord sert au montage de l'ensemble actif de la rampe sur le support en bois et permet de rentrer une rampe, voire deux, dans une malle.
 
 N'oubliez pas dans les achats les longueurs de tube IRO nécessaires en tant que mandrin pour la fabrication des fusées elles-mêmes. Leur nombre dépendra du nombre d'enfants par atelier.
